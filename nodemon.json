@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "tourist",
+    "DB_PASSWORD": "Rp8tDaId4LbUSTS2",
+    "DB_NAME": "places",
+    "GOOGLE_API_KEY": "AIzaSyBLAFHoEg0jlEZvtOSCBE6RtnZ4whPkfdU",
+    "JWT_KEY": "superSecret"
+  }
+}
